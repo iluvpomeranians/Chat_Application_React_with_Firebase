@@ -8,9 +8,9 @@ const firebaseConfig = {
   authDomain: "chat-app-2-w-react-js-firebase.firebaseapp.com",
   projectId: "chat-app-2-w-react-js-firebase",
   storageBucket: "chat-app-2-w-react-js-firebase.appspot.com",
-  messagingSenderId: "736239631067",
-  appId: "1:736239631067:web:97d6b1652bae12c4e16afe",
-  measurementId: "G-D4PJKG1RBQ"
+  messagingSenderId: "hidden",
+  appId: "hidden",
+  measurementId: "hidden"
 };
 
 // Initialize Firebase
