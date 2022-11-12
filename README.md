@@ -10,5 +10,5 @@ More experience with creating AuthContext and further experimentation using reac
 We later deployed the app to our Netlify account here: https://chat-app-react-firebase-pomeranian.netlify.app/
 You can login and test using: Usr: jane@gmail.com password: 123123
 
-Inspire by tutorial from LamaDev youtube channel (https://www.youtube.com/watch?v=k4mjF4sPITE&ab_channel=LamaDev)
+Inspired by tutorial from LamaDev youtube channel (https://www.youtube.com/watch?v=k4mjF4sPITE&ab_channel=LamaDev)
 
